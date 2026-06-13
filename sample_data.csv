@@ -1,0 +1,9 @@
+﻿Appointment Date,Appointment Time,Customer Name,Phone,Address,City,State,Status,Lead Source,Rep,Confirmer,Notes
+2026-06-10,09:00 AM,Jordan Blake,555-0101,101 Maple Street,Allentown,PA,Confirmed,Website,Avery Smith,Morgan Lee,Customer replied YES
+2026-06-10,11:30 AM,Casey Morgan,555-0102,220 Oak Avenue,Bethlehem,PA,New,Call Center,Riley Jones,Taylor Reed,No answer yesterday left voicemail
+2026-06-10,02:00 PM,Renee Carter,555-0103,38 Pine Road,Easton,PA,New,Employee Self Gen,Sam Patel,Chris Bell,
+2026-06-11,10:00 AM,Drew Ellis,555-0104,77 Cedar Lane,Reading,PA,New,Call Center,Jamie Cruz,Morgan Lee,Needs first confirmation
+2026-06-12,01:00 PM,Alex Rivera,555-0105,900 Birch Court,Lancaster,PA,Confirmed,Website,Avery Smith,Taylor Reed,Confirmed by phone
+2026-06-09,03:00 PM,Terry Quinn,555-0106,14 Spruce Drive,York,PA,Customer No Show,Call Center,Riley Jones,Chris Bell,Past no-show cleanup
+2026-06-10,,Morgan Stone,555-0107,56 Walnut Way,Harrisburg,PA,Confirmed,Call Center,Sam Patel,Morgan Lee,Missing time
+2026-06-11,04:30 PM,,555-0108,12 Aspen Circle,Erie,PA,Pre-App Cancel,Call Center,Jamie Cruz,Taylor Reed,Customer asked to cancel
